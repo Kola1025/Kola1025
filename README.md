@@ -1,4 +1,4 @@
-https://github-readme-stats.vercel.app/api?username=Kola1025
+
 ### Hi there 👋
 
 
