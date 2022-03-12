@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on page to school presentaion
+- 🔭 I’m currently working on nothing
 - 🌱 I’m currently learning HTML5/CSS3
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
